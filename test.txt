@@ -1,0 +1,16 @@
+Имя функции: md5
+Monday-28-June 2021 11:27:04 AM
+Аргументы: ('countries_with_links.txt',)
+Результат:735399ed2c162ca17f221fddee4423a7
+Имя функции: function_to_be_used
+Monday-28-June 2021 11:27:39 AM
+Аргументы: (23, 21)
+Результат:44
+Имя функции: __init__
+Monday-28-June 2021 11:27:39 AM
+Аргументы: (<__main__.ArticleWiki object at 0x00000298ADBA3E80>, 'cont.json', 0)
+Результат:None
+Имя функции: md5
+Monday-28-June 2021 11:28:13 AM
+Аргументы: ('countries_with_links.txt',)
+Результат:735399ed2c162ca17f221fddee4423a7
